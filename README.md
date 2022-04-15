@@ -1,5 +1,5 @@
 # ATM_Project
- an ATM software with GUI (python) that do the following:
+**** an ATM software with GUI (python) that do the following:**
  
 1- The system first asks the user to enter his account number then click Enter 
 
@@ -24,7 +24,7 @@ Note, the password shall be shown as stars (*)
 
 
 
-Cash Withdraw 
+**Cash Withdraw **
 1- When the user choose the cash withdraw system, the system would ask the user to enter the 
 desired amount to withdraw, if the balance covers this amount of balance, the system would call 
 the function “ATM_Actuator_Out” which will provide the money to the client from the ATM outlet. 
@@ -53,7 +53,7 @@ home page.
 
 
 
-Password Change 
+**Password Change** 
 When the user chooses this option, the system shall ask the user to enter the new password twice. 
 The system shall accept only a password with a length four. The two passwords shall be matched in 
 order to save. Otherwise the system would ask the user to repeat the operation. 
