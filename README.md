@@ -1,7 +1,8 @@
 # ATM_Project
-** an ATM software with GUI (python) that do the following:**
+**an ATM software with GUI (python) that do the following:**
  
-**1-** The system first asks the user to enter his account number then click Enter 
+1- The system first asks the user to enter his account number then click Enter 
+
 **2-** If the account number is not identified by the system, the system would show an error message 
 then reset
 **3- **After the user enter the correct account number, the system would ask the user to enter the 
