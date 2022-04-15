@@ -26,6 +26,7 @@ Note, the password shall be shown as stars (*)
 
 
 **Cash Withdraw**
+
 **1-** When the user choose the cash withdraw system, the system would ask the user to enter the 
 desired amount to withdraw, if the balance covers this amount of balance, the system would call 
 the function “ATM_Actuator_Out” which will provide the money to the client from the ATM outlet. 
@@ -36,7 +37,7 @@ the HW part.
 **2-** After the withdraw operation, the system shall print a thank you message and return to the 
 home page. 
 
-**3- **Maximum allowed value per transaction is 5000 L.E 
+**3-**Maximum allowed value per transaction is 5000 L.E 
 
 **4-** The allowed values are multiple of 100L.E, otherwise the system shall print not allowed value and 
 ask the user to reenter the value 
@@ -55,15 +56,19 @@ home page.
 
 
 **Password Change** 
+
 When the user chooses this option, the system shall ask the user to enter the new password twice. 
 The system shall accept only a password with a length four. The two passwords shall be matched in 
 order to save. Otherwise the system would ask the user to repeat the operation. 
 Fawry Service 
+
 The system provides 4 Fawry services which are: 
+
 1- Orange Recharge 
 2- Etisalat Recharge 
 3- Vodafone Recharge 
 4- We Recharge. 
+
 After the user chooses an option, the system would ask the user to enter the phone number and 
 the amount of recharge. If the user balance would cover this operation, it would be done (Consider 
 nothing to do for now) and the balance would be updated. If not, the system would print no 
