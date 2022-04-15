@@ -21,8 +21,7 @@ Note, the password shall be shown as stars (*)
 • Exit 
 
 
-
-
+                                                             _____________________________________
 
 
 **Cash Withdraw**
@@ -37,7 +36,7 @@ the HW part.
 **2-** After the withdraw operation, the system shall print a thank you message and return to the 
 home page. 
 
-**3-**Maximum allowed value per transaction is 5000 L.E 
+**3-** Maximum allowed value per transaction is 5000 L.E 
 
 **4-** The allowed values are multiple of 100L.E, otherwise the system shall print not allowed value and 
 ask the user to reenter the value 
@@ -51,6 +50,7 @@ name. The system would show a button with the text Ok when pressed, the system s
 home page. 
 
 
+                                                             _____________________________________
 
 
 
