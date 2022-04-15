@@ -19,7 +19,7 @@ Note, the password shall be shown as stars (*)
 • Cash Withdraw • Balance Inquiry 
 • Password Change • Fawry Service 
 • Exit 
-
+&nbsp;
 
                                                              
 
@@ -50,7 +50,7 @@ name. The system would show a button with the text Ok when pressed, the system s
 home page. 
 
 
-
+&nbsp;
 
 
 
