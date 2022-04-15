@@ -21,7 +21,7 @@ Note, the password shall be shown as stars (*)
 • Exit 
 
 
-                                                             _____________________________________
+                                                             
 
 
 **Cash Withdraw**
@@ -50,7 +50,6 @@ name. The system would show a button with the text Ok when pressed, the system s
 home page. 
 
 
-                                                             _____________________________________
 
 
 
